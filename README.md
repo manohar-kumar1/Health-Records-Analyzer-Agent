@@ -1,15 +1,6 @@
-# 🩺 HIA (Health Insights Agent)
+# 🩺 HIA (Health Records Insights Agent)
 
 AI Agent to analyze blood reports and provide detailed health insights.
-
-<p align="center">
-  <a href="https://github.com/harshhh28/hia/issues"><img src="https://img.shields.io/github/issues/harshhh28/hia"></a> 
-  <a href="https://github.com/harshhh28/hia/stargazers"><img src="https://img.shields.io/github/stars/harshhh28/hia"></a>
-  <a href="https://github.com/harshhh28/hia/network/members"><img src="https://img.shields.io/github/forks/harshhh28/hia"></a>
-  <a href="https://github.com/harshhh28/hia/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg">
-  </a>
-</p>
 
 <p align="center">
   <a href="#-features">Features</a> |
@@ -123,27 +114,3 @@ hia/
 │       ├── validators.py      # Input validation
 │       └── pdf_extractor.py   # PDF processing
 ```
-
-## 👥 Contributing
-
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests, the development workflow, coding standards, and more.
-
-We appreciate all contributions, from reporting bugs and improving documentation to implementing new features.
-
-## 👨‍💻 Contributors
-
-Thanks to all the amazing contributors who have helped improve this project!
-
-| Avatar | Name | GitHub | Role | Contributions |
-|--------|------|--------|------|---------------|
-| <img src="https://github.com/harshhh28.png" width="50px" height="50px" alt="harshhh28"/> | Harsh Gajjar | [harshhh28](https://github.com/harshhh28) | Project Creator & Maintainer | Core implementation, Documentation |
-
-<!-- To future contributors: Your profile will be added here when your PR is merged! -->
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙋‍♂️ Author
-
-Created by [Harsh Gajjar](https://harshgajjar.vercel.app)
